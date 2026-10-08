@@ -1,0 +1,3 @@
+hotel_limit: 500
+submit_days: 15
+report_hours: 1

@@ -1,0 +1,22 @@
+# Secrets and local configuration
+.env
+.env.*
+**/.env
+**/.env.*
+!**/.env.example
+*.pem
+*.key
+
+# Environments, generated files and private data
+.venv/
+**/node_modules/
+**/__pycache__/
+**/.pytest_cache/
+**/*.pyc
+**/dist/
+**/storage/
+runtime/
+*.log
+.DS_Store
+**/.idea/
+.vscode/
